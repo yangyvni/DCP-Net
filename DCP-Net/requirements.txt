@@ -1,0 +1,11 @@
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI&egg=pycocotools
+git+https://github.com/cocodataset/panopticapi.git#egg=panopticapi
+
+pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+
+ultralytics
+cython==0.29.36
+git+https://github.com/jwwangchn/cocoapi-aitod.git#subdirectory=aitodpycocotools
+
+
+
