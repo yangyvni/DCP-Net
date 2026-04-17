@@ -1,7 +1,8 @@
 git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI&egg=pycocotools
 git+https://github.com/cocodataset/panopticapi.git#egg=panopticapi
 
-pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+python==3.9
+torch==1.12.1
 
 ultralytics
 cython==0.29.36
