@@ -1,6 +1,4 @@
-# <p align=center> DCP-Net: Learning Detail–Context Perception via
-Spatial-Frequency Guidance for Tiny Object
-Detection in Remote Sensing Images </p>
+# <p align=center> DCP-Net: Learning Detail–Context Perception via Spatial-Frequency Guidance for Tiny Object Detection in Remote Sensing Images </p>
 
 <!-- This repository contains python implementation of our paper [DCP-Net](https://ieeexplore.ieee.org/document/10462223). -->
 
