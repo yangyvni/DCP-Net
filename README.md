@@ -4,7 +4,7 @@
 
 ## Quick Start with Jupyter Notebook
 For a step-by-step demonstration of the full processing chain, including environment verification, dataset preparation, training, and inference, please refer to our interactive tutorial:
-* [DCP-Net_Tutorial.ipynb](examples/DCP-Net_Tutorial.ipynb) 
+* [DCP-Net_Tutorial.ipynb](DCP-Net/examples/DCP-Net_Tutorial.ipynb) 
 
 This notebook provides a "hands-on" guide to help you reproduce our results on the AI-TODv2 or DOTA-v1.0 datasets quickly.
 
